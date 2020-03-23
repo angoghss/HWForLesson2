@@ -11,7 +11,7 @@ import static com.company.Plus.sum;
  * */
 
 public class Calculator {
-
+    //define method main
     public static void main(String[] args) {
         sum(2, 2);
         sub(4, 10);

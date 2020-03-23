@@ -2,11 +2,6 @@ package com.company;
 
 public class Plus {
 
-    //define method main
-    public static void main(String[] args) {
-        sum(2, 2);
-    }
-
     public static int sum(int a, int b) {
         int x = a + b;
         System.out.println("Addition action: " + x);
